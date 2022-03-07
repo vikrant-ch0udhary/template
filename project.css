@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+.main_wrapp {
+    width: 100%;
+    height: 100vh;
+    background-image: url();
+    background-color: #4e5f916e;
+    background-blend-mode: overlay;
+}
+ul {
+    list-style: none;
+    margin-left: 27%;
+}
+.row {
+    width: 100%;
+}
+.col-lg-3.col-md-6 {
+    margin-left: 33%;
+    margin-top: 4%;
+}
+h1.text-centre.text-md-center {
+    padding: 15px;
+    width: 198%;
+    margin-left: -23%;
+}
+p.text {
+    margin-left: 24%;
+    font-family: PT;
+}
+input.form-control.ok {
+    width: 77%;
+    margin-left: 21%;
+    border-radius: 32px;
+}
+button.form-control.btn-primary {
+    /* background-color: goldenrod; */
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 32px;
+    box-shadow: none;
+    height: 40px;
+    margin-right: 0.5em;
+    padding-left: 0px;
+    margin-top: -39px;
+    margin-left: 78%;
+    width: 41%;
+}
+h1.head {
+    margin-left: 33%;
+    margin-top: 20%;
+}
+ol.list {
+    list-style: none;
+    margin-top: 10%;
+}
+li {
+    display: inline-block;
+    margin-left: 15%;
+}
+h1.head2 {
+    margin-left: 18%;
+    margin-top: 9%;
+}
+p.ok {
+    margin-left: 18%;
+    font-family: Roboto;
+}
+img.ms.pic {
+    margin-top: 69%;
+    margin-left: 23%;
+    height: 42%;
+    width: 86%;
+}
+h2 {
+    margin-top: 8%;
+    margin-left: 32%;
+    font-family: auto;
+    margin-bottom: 8%;
+}
+img {
+    height: 60%;
+    width: 90%;
+    margin-left: 9%;
+}
+p {
+    margin-left: 10%;
+    font-family: Redressed;
+}
+img.pikk {
+    height: 100%;
+    width: 90%;
+}
+h1.head6 {
+    margin-left: 22%;
+    font-family: auto;
+    color: white;
+}
+.col-6.itext {
+    border: 0px solid;
+    background-color: black;
+    margin-left: -2%;
+}
+img.sofia {
+    height: 21%;
+    width: 24%;
+    border-radius: 97px;
+}
+p.doted {
+    font-size: 67px;
+    color: white;
+    margin-top: -5%;
+    margin-left: 45%;
+}
+p.kiaa {
+    margin-top: -17%;
+    margin-left: 35%;
+    font-family: Ubuntu;
+    font-size: 16px;
+    color: white;
+}
+p.say {
+    font-family: inherit;
+    color: white;
+}
+h1.Any {
+    margin-left: 37%;
+    margin-top: 10%;
+}
+table.table {
+    margin-top: 9%;
+    border: 2px solid white;
+}
+.section.title {
+    text-align: center;
+}
+h1 {
+    margin-top: 10%;
+    font-family: 'Ubuntu';
+}
+
+h2.header {
+    margin-left: 13%;
+    font-family: serif;
+    border: 2px solid white;
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-family: monospace;
+}
+.row.ok {
+    border: 2px solid;
+    background-color: black;
+    border-radius: 7px;
+}
+.pricing-info {
+    margin-left: 14%;
+    border: 2px solid white;
+    color: white;
+}
+.pricing-bottom {
+    margin-left: 14%;
+    border: 2px solid white;
+    text-align: center;
+    color: white;
+}
+textarea.form-control {
+    width: 43%;
+    margin-left: 7%;
+    margin-top: 5%;
+}
+.row.no {
+    margin-top: 10%;
+}
+input.form-control.go {
+    width: 77%;
+    margin-left: 21%;
+    border-radius: 32px;
+    border-radius: 32px;
+    background: transparent;
+    border: 0px;
+    border-bottom: 3px solid #f0f0f0;
+}
+
+input.btn.btn-outline-success {
+    width: 158px;
+    height: 47px;
+    border-radius: 23px; 
+    border-color: black;
+} 
+textarea.form-control {
+    width: 43%;
+    margin-left: 7%;
+    margin-top: 5%;
+    border: 0px;
+    border-bottom: 3px solid #f0f0f0;
+}
+.col-12 {
+    height: 110%;
+}
+p.instruction {
+    margin-top: 12%;
+    margin-left: 29%;
+}
+img.hloo {
+    width: 2%;
+    height: 3%;
+    margin-top: -6%;
+    margin-left: 70%;
+}
+
+img.hlooo {
+    width: 4%;
+    height: 6%;
+    margin-top: -6%;
+    margin-left: -8px;
+}
+h1.add {
+    margin-left: 40%;
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
+h1.hadd {
+    margin-top: 7%;
+    margin-left: 38%;
+}
+.row.kk {
+    margin-top: -5%;
+}
+div#navbarNavAltMarkup {
+    margin-left: 30%;
+}
+.container-fluid {
+    margin-bottom: 2%;
+}
+h2.headiing {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
